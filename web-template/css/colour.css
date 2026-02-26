@@ -1,0 +1,57 @@
+/*
+ * Colour Scheme Styles
+ * Jason Cole (http://jason-cole.com)
+ * February 2008 - March 2008
+ */
+
+
+/* Red Colour Scheme */
+
+.red a,.red a:link,.red a:visited
+{
+ color: #ff6400;
+}
+body.red
+{
+ background-color: #38684c;
+ color: #fff;
+}
+.red #container
+{
+ background: #fff;
+ border-color: #888;
+}
+.red #header
+{
+ background:  #31b006;
+}
+.red #header h1
+{
+ color: #fff;
+}
+.red #header h2
+{
+ color: #ddd;
+}
+.red #navigation_top ul,.red #navigation_bottom ul,.red #menu,.red #extra,.red #content
+{
+ border-color: #888;
+}
+.red #footer
+{
+ background-color: #31b006;
+ color: #fff;
+}
+.red #header a,.red #header a:link,.red #header a:visited,.red #footer a,.red #footer a:link,.red #footer a:visited
+{
+ color: #fff;
+}
+.red h1,.red h2,.red h3,.red h4,.red h5,.red h6,.red dt
+{
+ border-bottom-color: #000;
+ color: #38684c;
+}
+.red .menu li a:hover,.red .menu li a:active,.red .menu li a.current,.red .menu li a.current:link,.red .menu li a.current:visited
+{
+ border-left-color: #600;
+}

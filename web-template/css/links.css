@@ -1,0 +1,15 @@
+
+/* Links in titles and the header and footer */
+
+html #outer_container #container #inner_container h1 a,html #outer_container #container #inner_container h2 a,html #outer_container #container #inner_container h3 a,html #outer_container #container #inner_container h4 a,html #outer_container #container #inner_container h5 a,html #outer_container #container #inner_container h6 a,html #outer_container #container #inner_container #header a,html #outer_container #container #inner_container #footer a,html #outer_container #container #inner_container h1 a:link,html #outer_container #container #inner_container h2 a:link,html #outer_container #container #inner_container h3 a:link,html #outer_container #container #inner_container h4 a:link,html #outer_container #container #inner_container h5 a:link,html #outer_container #container #inner_container h6 a:link,html #outer_container #container #inner_container #header a:link,html #outer_container #container #inner_container #footer a:link,html #outer_container #container #inner_container h1 a:visited,html #outer_container #container #inner_container h2 a:visited,html #outer_container #container #inner_container h3 a:visited,html #outer_container #container #inner_container h4 a:visited,html #outer_container #container #inner_container h5 a:visited,html #outer_container #container #inner_container h6 a:visited,html #outer_container #container #inner_container #header a:visited,html #outer_container #container #inner_container #footer a:visited
+{
+ color: inherit;
+ text-decoration: none;
+}
+html #outer_container #container #inner_container h1 a:hover,html #outer_container #container #inner_container h2 a:hover,html #outer_container #container #inner_container h3 a:hover,html #outer_container #container #inner_container h4 a:hover,html #outer_container #container #inner_container h5 a:hover,html #outer_container #container #inner_container h6 a:hover,html #outer_container #container #inner_container #header a:hover,html #outer_container #container #inner_container #footer a:hover,html #outer_container #container #inner_container h1 a:active,html #outer_container #container #inner_container h2 a:active,html #outer_container #container #inner_container h3 a:active,html #outer_container #container #inner_container h4 a:active,html #outer_container #container #inner_container h5 a:active,html #outer_container #container #inner_container h6 a:active,html #outer_container #container #inner_container #header a:active,html #outer_container #container #inner_container #footer a:active
+{
+ color: inherit;
+ text-decoration: none;
+}
+
+

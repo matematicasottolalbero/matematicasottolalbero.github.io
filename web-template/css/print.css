@@ -1,0 +1,25 @@
+/*
+ * Print Styles
+ * Jason Cole (http://jason-cole.com)
+ * June - December 2007
+ */
+
+body
+{
+ background-color: #fff;
+ color: #333;
+ font-family: Optima, Candara, "Lucida Bright", "Lucida Fax", "Trebuchet MS", Georgia, serif; /* This has been stolen from Samurai */
+ font-size: 100%;
+ margin: 0;
+ text-align: center;
+}
+
+#container
+{
+ background-color: #fff;
+}
+
+#inner_container
+{
+ border-width: 0px;
+}
